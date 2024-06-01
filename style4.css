@@ -1,0 +1,132 @@
+.firstschoolexplian {
+
+    padding-left: 30px;
+    padding-right: 15px;
+    line-height: 20px;
+
+}
+
+.aliedschool {
+    font-size: 30px;
+    line-height: 0%;
+}
+
+.aliedschool1 {
+    font-size: 23px;
+    color: rgb(131, 125, 125);
+}
+
+.contact {
+    margin: 45px 250px 100px 250px;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2);
+    padding-top: 20px;
+    padding-left: 30px;
+    flex-direction: row;
+    line-height: 20px;
+
+}
+
+.name {
+
+    padding-right: 290px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.text {
+    font-size: larger;
+    width: 350px;
+    height: 30px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.s1 {
+
+    padding-right: 30px;
+}
+
+.username {
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.Email {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.email {
+    font-size: larger;
+    width: 760px;
+    height: 30px;
+    margin-top: 20px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+
+}
+
+.img2 {
+    background-color: beige;
+    color: blue;
+    border-radius: 50%;
+}
+
+.button1 {
+    border-color: beige;
+}
+
+.Bio {
+    font-size: larger;
+    width: 760px;
+    height: 200px;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.password {
+    width: 350px;
+    height: 30px;
+
+}
+
+.CurrentPassword {
+    font-weight: bolder;
+}
+
+.button {
+    background-color: rgb(0, 123, 255);
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    margin-left: 630px;
+
+}
+
+.s2 {
+    text-align: end;
+    margin-right: 20px;
+}
+
+.span1 {
+    padding-left: 290px;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+
+.ckekbox1 {
+    margin-left: 50px;
+}
+
+.body1 {
+    background-color: #f3f2ef;
+}

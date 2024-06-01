@@ -1,0 +1,88 @@
+.navbar {
+    position: fixed;
+    backdrop-filter: blur(6px);
+    top: 0%;
+}
+
+.img3 {
+    border-radius: 50%;
+}
+
+.logo {
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 1070px;
+}
+
+.logo2 {
+    margin-top: 10px;
+    border-radius: 50%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-width: 5px;
+}
+
+.div3 {
+    flex-direction: row;
+    display: flex;
+
+}
+
+.h1 {
+    color: black;
+    margin-top: 100px;
+}
+
+.div1 {
+    margin-left: 100px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.water {
+    color: rgb(55, 55, 236);
+    margin-left: 50px;
+}
+
+.one {
+    text-align: center;
+}
+
+.img1 {
+
+    background-color: white;
+}
+
+.body1 {
+    background-color: #f3f2ef;
+}
+
+.text {
+    margin-left: 50px;
+}
+
+.shakes {
+    flex-direction: row;
+    display: flex;
+}
+
+.juices1 {
+    flex-direction: row;
+    display: flex;
+}
+
+.card1 {
+    background-color: white;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+.cardimg {
+    height: 170px;
+    width: 170px;
+    overflow: hidden;
+}
+
+.logo3 {
+    color: black;
+}

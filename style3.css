@@ -1,0 +1,106 @@
+.navbar {
+    position: fixed;
+    backdrop-filter: blur(6px);
+    top: 0%;
+}
+
+.img3 {
+    border-radius: 50%;
+}
+
+.logo {
+    margin-right: 1110px;
+}
+
+.button1 {
+    border-color: beige;
+    margin-top: 90px;
+    margin-right: 500px;
+
+}
+
+.button2 {
+    background-color: rgb(255, 212, 94);
+    font-size: 25px;
+    width: 400px;
+}
+
+.span1 {
+    font-size: 25px;
+    color: rgb(42, 42, 248);
+    font-weight: bold;
+}
+
+.body1 {
+    background-color: #f3f2ef;
+}
+
+.branch1 {
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 1200px;
+    margin-left: 50px;
+    height: 40px;
+}
+
+.img2 {
+    margin-right: 500px;
+    border-radius: 50%;
+}
+
+.checkbox1 {
+    color: black;
+    font-size: larger;
+
+    margin-top: 10px;
+}
+
+.checkbox2 {
+    margin-left: 50px;
+}
+
+.payment {
+    margin-left: 50px;
+    color: rgb(114, 114, 107);
+}
+
+.payment1 {
+    flex-direction: row;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right: 80px;
+    line-height: 50px;
+
+}
+
+.span3 {
+    margin-right: 1000px;
+    margin-left: 20px;
+
+}
+
+.span4 {
+    margin-right: 994px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.span5 {
+    margin-right: 1030px;
+    margin-left: 20px;
+}
+
+.button4 {
+    width: 1170px;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: rgb(255, 212, 94);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
